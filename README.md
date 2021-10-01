@@ -43,6 +43,21 @@ We don't required these, but you may show your skills in these ways:
 - any new technology
 - save the result in an object storage
 
+## Task#3 Frontend for Simple Face Detection
+
+#### Requirements
+1. Create a web app or mobile app to visualize the results from task#1 or task#2
+   
+2. Connect to bankend using API
+
+#### Extra points
+We don't required these, but you may show your skills in these ways:
+- clean and readable code
+- good object oriented style
+- apply HTTPS instead of HTTP
+- any new technology
+- Use the native stacks or React, React Native stacks.
+
 ## ============
 ## Installation
 run these command to install this project.
