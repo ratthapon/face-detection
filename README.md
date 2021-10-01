@@ -43,12 +43,16 @@ We don't required these, but you may show your skills in these ways:
 - any new technology
 - save the result in an object storage
 
-## Task#3 Frontend for Simple Face Detection
+## Task#3 Front-end for Simple Face Detection
 
 #### Requirements
 1. Create a web app or mobile app to visualize the results from task#1 or task#2
+
+2. Should render detected faces in image, you may render in front-end or back-end
+
+3. Should draw bounding boxes or circle in rendered images
    
-2. Connect to bankend using API
+4. Connect to bankend using API
 
 #### Extra points
 We don't required these, but you may show your skills in these ways:
